@@ -1,0 +1,60 @@
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\BLL\obj\Debug\net8.0\ref\BLL.dll

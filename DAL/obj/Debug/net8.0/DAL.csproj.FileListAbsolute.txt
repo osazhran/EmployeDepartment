@@ -1,0 +1,48 @@
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\MvcProject Solution\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3TiersLayerNon-Generic Solution\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\iRepair\Desktop\C#\mvc\3Tiers Layer with Generic Repository\3TiersLayer-Generic Solution\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\emo\source\repos\ThreeTiers-with-Generic-Repository-master\DAL\obj\Debug\net8.0\ref\DAL.dll

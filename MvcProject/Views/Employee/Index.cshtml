@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>All Employee</h1>
+<br />
+<br />
+
+<a asp-controller="Employee" asp-action="Create" class=" btn btn-primary">Create new Employee </a>
+<br />
+<br />
+<div class="row justify-content-center align-items-center py-3">
+    <form asp-action="Index" class="row col-8 offset-1" >
+        <div class="col-8">
+            <input type="text" class="form-control" id="searchInp" name="searchInp" placeholder="Search By Name ....." />
+        </div>
+        <div class="col-4">
+            <input type="submit" class="btn btn-success"  value="Search" />
+        </div>
+    </form>
+</div>
+@{
+    if (Model.Count() > 0)
+    {
+                    <table class="table table-striped table-hover mt-3">
+                        <thead>
+                            <tr>
+                                <th>@Html.DisplayNameFor(E => E.Name)</th>
+                                <th>@Html.DisplayNameFor(E => E.Age)</th>
+                                <th>@Html.DisplayNameFor(E => E.Address)</th>
+                                <th>@Html.DisplayNameFor(E => E.Department)</th>
+                                <th>@Html.DisplayNameFor(E => E.Salary)</th>
+                                <th>@Html.DisplayNameFor(E => E.IsActive)</th>
+                                <th>@Html.DisplayNameFor(E => E.EmailAddress)</th>
+                                <th>@Html.DisplayNameFor(E => E.PhoneNumber)</th>
+                                <th>@Html.DisplayNameFor(E => E.HireDate)</th>
+                                <th>Details</th>
+                                <th>Update</th>
+                                <th>Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var Employee in Model)
+                {
+                                <tr>
+                                    <td>@Employee.Name</td>
+                                    <td>@Employee.Age</td>
+                                    <td>@Employee.Address</td>
+                                    <td>@Employee.Department?.Name</td>
+                                    <td>@Html.DisplayFor(M => Employee.Salary)</td>
+                                    <td>@Html.DisplayFor(M => Employee.IsActive)</td>
+                                    <td>@Html.DisplayFor(M => Employee.EmailAddress)</td>
+                                    <td>@Employee.PhoneNumber</td>
+                                    <td>@Employee.HireDate</td>
+                                    <Partial name="_ButtonsPartial" model="@Employee.Id" />
+                                </tr>
+                }
+                        </tbody>
+                    </table>
+
+    }
+
+
+    else
+    {
+                    <h3 class="alert alert-info text-center">There is no Employee</h3>
+    }
+}
+
+
+@* <script>
+    const SearchBar = $('#searchText');
+    const TableRows = $('table tbody tr');
+    SearchBar.on('keypress', function (event) {
+        const SearchValue = SearchBar.val().toLowerCase();
+        $.ajax({
+            url : '/Employee/Index'
+            type : 'Get'
+            success: function (result)
+            {
+                console.log(result)
+            }
+            error: function (xhr, status, error) 
+            {
+                console.log(error)
+            }
+        })
+
+    })
+</script> *@
